@@ -1,0 +1,29 @@
+body{
+  background-color: #FFEBCD;
+  }
+img{
+width: 360px;
+border: 3xp double;
+border-radius: 15px;
+}
+#title{
+  text-decoration: underline;
+}
+#byline{
+  font-style: italic;}
+.spain{
+    color:#FF4500;
+   }
+.france{
+  color:#4169E1;
+}
+.italy{
+  color:#228B22;
+}
+.greece{
+  color:DeepSkyBlue;
+}
+#first{
+  color:black;
+  
+}
